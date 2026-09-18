@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-robertoaedo-181717?style=flat&logo=github)](https://github.com/robertoaedo)
 [![Gmail](https://img.shields.io/badge/Email-robertoaedoandrade@gmail.com-D14836?style=flat&logo=gmail)](mailto:robertoaedoandrade@gmail.com)
 
-**Egresado de Ingeniería de Ejecución en Informática** | **Desarrollador Full Stack / Java** | **Soporte & Administración de Sistemas**
+**Ingeniería de Ejecución en Informática** | **Desarrollador Full Stack / Java** | **Soporte & Administración de Sistemas**
 
 Soy una persona analítica, orientada a resultados y con una sólida base técnica en desarrollo de software, administración de infraestructura TI (Windows/Linux) y ciberseguridad[cite: 1]. Cuento con experiencia diversa en la industria del software, soporte técnico, servicios y gestión del riesgo.
 
